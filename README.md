@@ -11,7 +11,7 @@ Smooth Performance
 Optimized for lightweight browsers and basic hardware. Despite being visually rich, the animations are handled efficiently to ensure performance across devices.
 
 Technologies Used
-HTML5, CSS3, JavaScript – Base structure and styling
+Next.Js and Reactbits – Base structure and styling
 
 Three.js – Used for rendering the 3D interactive ASCII text
 
@@ -28,7 +28,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Pratik04Jha/InteractFX
 Open the index.html file in your browser, or host the folder using any local server.
 
 No external build steps are required – it’s pure front-end.
